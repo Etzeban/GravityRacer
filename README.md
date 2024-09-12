@@ -7,16 +7,8 @@ Each team propose a design for a Gravity Racer that have no more than 12 parts w
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
+<h2>Project's snapshots</h2>
 
 <p align="center">
 Launch the utility: <br/>
