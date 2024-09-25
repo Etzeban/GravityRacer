@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-Each team propose a design for a Gravity Racer that have no more than 12 parts with clear descriptions and justification for each component in their designs. In this race, the cars will travel along the standard PASCO race track with width of 10 cm. The incline angle on the race tracks will vary from race to race, ranging from 5 degrees to 30 degrees. The Gravity Racer shall be able to hold at least 1 PASCO hooked mass weighting 500grams to represent the passenger and the hooked mass shall not fall out of the Racer during the race. The Gravity Racer shall be able to withstand a crash into a 3mm thick wall made from Acrylic at the finish line.
+Led a team of 6 students to design for a Gravity Racer that have no more than 12 parts with clear descriptions and justification for each component in their designs. In this race, the cars will travel along the standard PASCO race track with width of 10 cm. The incline angle on the race tracks will vary from race to race, ranging from 5 degrees to 30 degrees. The Gravity Racer shall be able to hold at least 1 PASCO hooked mass weighting 500grams to represent the passenger and the hooked mass shall not fall out of the Racer during the race. The Gravity Racer shall be able to withstand a crash into a 3mm thick wall made from Acrylic at the finish line.
 <br />
 
 
